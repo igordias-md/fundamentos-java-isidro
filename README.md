@@ -44,13 +44,12 @@ O repositório está organizado acompanhando os módulos do curso. Ao longo das 
 Para baixar este repositório na sua máquina, você pode utilizar o **GitHub CLI** (recomendado):
 
 ```bash
-gh repo clone imdias/ExerciciosJava
 
 git clone [https://github.com/imdias/ExerciciosJava.git](https://github.com/imdias/ExerciciosJava.git)
 
+```
+
+---
+
 👨‍💻 Autor
 Feito com ☕ e dedicação por Igor Dias
-
-GitHub: @imdias
-
-LinkedIn: Igor Dias
