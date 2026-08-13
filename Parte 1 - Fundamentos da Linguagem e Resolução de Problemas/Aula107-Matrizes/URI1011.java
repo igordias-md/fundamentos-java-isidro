@@ -11,7 +11,5 @@ public class URI1011{
 		volumeEsfera = (4.0/3) * 3.14159 * Math.pow(raio, 3);
 
 		System.out.printf("Volume = %.3f\n", volumeEsfera);
-
-		teclado.close();
 	}
 }
