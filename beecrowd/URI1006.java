@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class URI1002{
+public class URI1006{
     public static void main(String args[]){
         Scanner teclado = new Scanner(System.in);
 
