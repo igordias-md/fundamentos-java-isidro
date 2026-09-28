@@ -12,5 +12,7 @@ public class URI1001{
         X = valorA + valorB;
 
         System.out.println("X = " + X);
+
+        teclado.close();
     }
 }

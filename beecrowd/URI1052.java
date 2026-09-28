@@ -42,6 +42,6 @@ public class URI1052 {
 			case 12:
 				System.out.println("December");
 				break;				
-		}
-	}
+		} teclado.close();
+	} 
 }

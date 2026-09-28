@@ -9,5 +9,7 @@ public class URI1016{
         int tempo = km * 2;
 
         System.out.println(tempo + " minutos");
+
+        teclado.close();
     }
 }

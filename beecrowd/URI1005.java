@@ -14,5 +14,6 @@ public class URI1005{
 
 		System.out.printf("MEDIA = %.5f\n", media);
 
+		teclado.close();
 	}
 }

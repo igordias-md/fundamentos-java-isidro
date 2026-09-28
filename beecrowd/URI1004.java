@@ -10,5 +10,7 @@ public class URI1004{
 		int produto = valor1 * valor2;
 
 		System.out.println("PROD = "+produto);
+
+		teclado.close();
 	}
 }

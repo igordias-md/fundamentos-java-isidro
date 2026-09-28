@@ -14,5 +14,7 @@ public class URI1007{
 		int diferenca = (A * B - C * D);
 
 		System.out.println("DIFERENÇA = " + diferenca);
+
+		teclado.close();
 	}
 }

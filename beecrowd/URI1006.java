@@ -15,5 +15,6 @@ public class URI1006{
 
         System.out.printf("MEDIA = %.1f%n", media);
 
+        teclado.close();
     }
 }

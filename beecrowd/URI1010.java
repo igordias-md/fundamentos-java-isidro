@@ -19,6 +19,7 @@ public class URI1010 {
 		total = (peca1 * valor1) + (peca2 * valor2);
 
 		System.out.printf("VALOR A PAGAR: R$ %.2f\n", total);
-
+		
+		teclado.close();
 	}
 }
