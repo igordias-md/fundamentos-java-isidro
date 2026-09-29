@@ -11,6 +11,7 @@ public class Tabuada{
         contador = 1;
         while (contador <= 10) {
             resultado = numero * contador;
+            System.out.println("O resultado da tabuada de 1 a 10 do valor digitado é:");
             System.out.println(numero + " x " + contador +  " = " + resultado);
             contador = contador + 1; 
         }
