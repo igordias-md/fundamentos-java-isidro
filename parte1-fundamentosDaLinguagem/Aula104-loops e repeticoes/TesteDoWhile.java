@@ -15,5 +15,5 @@ public class TesteDoWhile{
 		do{
 			System.out.println("O valor do contador = "+contador);
 		} while(contador <= valor);
-	}
+	} teclado.close();
 }
