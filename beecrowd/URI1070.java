@@ -6,11 +6,10 @@ public class URI1070 {
 
         int inicio = teclado.nextInt();
 
-        if (inicio % 2 == 0) { // o numero inicial é par?
-            inicio++;          // se for, torne-o impar
+        if (inicio % 2 == 0) { 
+            inicio++;          
         }
 
-        // agora vou contar até 6 e imprimir meu inicio somando 2 a cada passo
         for(int cont=1 ; cont <= 6 ; cont++){
             System.out.println(inicio);
             inicio += 2;
