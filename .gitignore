@@ -2,3 +2,5 @@
 .vscode/
 .idea/
 .material-do-curso/
+*.iml/
+out/
