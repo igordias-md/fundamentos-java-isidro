@@ -4,3 +4,6 @@
 .material-do-curso/
 *.iml/
 out/
+*.iml
+.idea/
+out/
